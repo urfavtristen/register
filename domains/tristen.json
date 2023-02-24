@@ -1,1 +1,9 @@
-
+description": "for my business called tristen is a dev ",
+    "repo": "https://github.com/urfavtristen/urfavtristen.github.io",
+    "owner": {
+        "username": "urfavtristen",
+        "email": "tristenelizondo@icloud.com",
+        "twitter": "killswitch7721"
+    },
+    "record": {
+        "CNAME": "urfavtristen.github.io"
